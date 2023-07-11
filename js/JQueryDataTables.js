@@ -35,8 +35,8 @@
       search: {
         caseInsensitive: true
       },
-      pageLength: 50,
-      lengthMenu: [10, 25, 50, 100, 500, 1000],
+      pageLength: 5,
+      lengthMenu: [5, 10, 25, 50, 100, 500, 1000],
       orderMulti: true,
       orderClasses: true,
       order: [[0, 'asc']],
