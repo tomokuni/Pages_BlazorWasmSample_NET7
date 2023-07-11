@@ -36,7 +36,7 @@
         caseInsensitive: true
       },
       pageLength: 50,
-      lengthMenu: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 100, 500],
+      lengthMenu: [10, 25, 50, 100, 500, 1000],
       orderMulti: true,
       orderClasses: true,
       order: [[0, 'asc']],
